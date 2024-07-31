@@ -1,3 +1,6 @@
 # ignore node_modules directory
 
 node_modules/
+
+# other entries
+firstcode/node_modules/
