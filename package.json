@@ -10,8 +10,7 @@
     "nodemon": "^3.1.4",
     "passport": "^0.7.0",
     "passport-local": "^1.0.0",
-    "prompt-sync": "^4.2.0",
-    "axios": "^1.9.0"
+    "prompt-sync": "^4.2.0"
   },
   "name": "nodejs",
   "version": "1.0.0",
